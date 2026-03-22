@@ -1,0 +1,10 @@
+category,elasticity,r_squared,interpretation
+consoles_games,-2.008,0.304,Elastic
+garden_tools,-0.717,0.092,Inelastic
+perfumery,-0.445,0.066,Inelastic
+watches_gifts,-0.322,0.022,Inelastic
+health_beauty,-0.127,0.023,Inelastic
+cool_stuff,0.081,0.001,Inelastic
+furniture_decor,0.28,0.013,Inelastic
+computers_accessories,0.348,0.009,Inelastic
+bed_bath_table,0.556,0.081,Inelastic
