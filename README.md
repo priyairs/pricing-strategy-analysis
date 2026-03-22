@@ -35,7 +35,7 @@ Retail Price Optimization — Kaggle
 - Pricing recommendation engine (18 SQL rules)
 
 ## Dashboard
-[View on Tableau Public](#) ← paste your Tableau link here
+[View on Tableau Public](https://public.tableau.com/views/PricingStrategyAnalysis/PricingStrategyAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ← paste your Tableau link here
 
 ## Files
 - `pricing_strategy_analysis.sql` — 18 SQL queries
